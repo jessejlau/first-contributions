@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
+- [Jesse Lau](https://github.com/jessejlau)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
